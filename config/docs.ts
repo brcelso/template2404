@@ -25,12 +25,12 @@ export const docsConfig: DocsConfig = {
     },
     {
       title: "GitHub",
-      href: "https://github.com/shadcn/ui",
+      href: "https://github.com/brcelso/ui",
       external: true,
     },
     {
       title: "Twitter",
-      href: "https://twitter.com/shadcn",
+      href: "https://twitter.com/juca0514",
       external: true,
     },
   ],
