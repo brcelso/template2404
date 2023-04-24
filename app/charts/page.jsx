@@ -36,6 +36,10 @@ function TradingViewWidget() {
                 "BTCUSD|All"
             ],
             [
+                "Ethereum",
+                "ETHUSD|All"
+            ],
+            [
                 "Apple",
                 "AAPL|All"
             ],
