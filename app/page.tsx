@@ -30,7 +30,7 @@ export default function IndexPage() {
       </div>
       <StyleSwitcher />
       <PageHeader>
-        <PageHeaderHeading>Welcome to the  New Age.</PageHeaderHeading>
+        <PageHeaderHeading>Welcome to the  New Age.=D</PageHeaderHeading>
         <PageHeaderDescription>
           This is my page.
           Just Code.
