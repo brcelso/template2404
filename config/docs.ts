@@ -30,7 +30,7 @@ export const docsConfig: DocsConfig = {
     },
     {
       title: "Twitter",
-      href:{siteConfig.links.twitter},
+      href: "https://twitter.com/juca0514",
       external: true,
     },
   ],
