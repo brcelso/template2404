@@ -32,7 +32,7 @@ export default function IndexPage() {
       <PageHeader>
         <PageHeaderHeading>Welcome to the  New Age.=D</PageHeaderHeading>
         <PageHeaderDescription>
-          This is my page. Catioro.
+          This is my page.
           Just Code.
         </PageHeaderDescription>
       </PageHeader>
