@@ -33,11 +33,11 @@ function TradingViewWidget() {
             ],
             [
                 "Bitcoin",
-                "BTCUSD|All"
+                "BTCUSD|All|BRL"
             ],
             [
                 "Ethereum",
-                "ETHUSD|All"
+                "ETHUSD|All|BRL"
             ],
             [
                 "Apple",
